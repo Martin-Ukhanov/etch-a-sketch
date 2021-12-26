@@ -1,0 +1,17 @@
+.container {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+}
+
+.row {
+    flex: auto;
+    display: flex;
+}
+
+.square {
+    flex: auto;
+}
